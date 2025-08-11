@@ -24,10 +24,13 @@ export default {
 			colors: {
 				game: {
 					primary: '#6366F1',
-					accent: '#8B5CF6',
-					dark: '#1F2937',
-					light: '#F3F4F6',
-					glass: 'rgba(255, 255, 255, 0.1)'
+					accent: '#F97316',
+					dark: '#111827',
+					darker: '#0F172A',
+					card: '#1F2937',
+					border: '#374151',
+					text: '#F9FAFB',
+					muted: '#9CA3AF'
 				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
